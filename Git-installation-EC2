@@ -1,0 +1,17 @@
+*** Git installation in EC2*****
+
+1) yum install git 
+
+
+for connection to Github
+
+need to create a keypair
+
+***  ssh-keygen  ***
+
+and using the cat comand copy the key 
+
+2)  go to the github and click on the profile select ssh and gpg keys 
+
+copy the key there and give the password...
+
